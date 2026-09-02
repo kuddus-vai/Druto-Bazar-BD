@@ -1,0 +1,6 @@
+{
+  "name": "Drutho Bazar BD",
+  "description": "দ্রুত বাজার বিডি - পাইকারি ও খুচরা মূল্যে খাঁটি গ্রোসারি, প্রাকৃতিক মধু, গাওয়া ঘি, সরিষার তেল ও নিত্যপ্রয়োজনীয় পণ্যের অনলাইন শপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
