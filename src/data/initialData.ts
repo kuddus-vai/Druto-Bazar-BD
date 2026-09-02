@@ -89,11 +89,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/753531286_122139674061070246_7485531564036318518_n.jpg",
+    "imageUrl": "./assets/753531286_122139674061070246_7485531564036318518_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/753531286_122139674061070246_7485531564036318518_n.jpg"
+      "./assets/753531286_122139674061070246_7485531564036318518_n.jpg"
     ]
   },
   {
@@ -109,11 +109,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/753164101_122139705393070246_1594145333383540653_n.jpg",
+    "imageUrl": "./assets/753164101_122139705393070246_1594145333383540653_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/753164101_122139705393070246_1594145333383540653_n.jpg"
+      "./assets/753164101_122139705393070246_1594145333383540653_n.jpg"
     ]
   },
   {
@@ -129,11 +129,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/752642917_122139754431070246_1632129087018989415_n.jpg",
+    "imageUrl": "./assets/752642917_122139754431070246_1632129087018989415_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/752642917_122139754431070246_1632129087018989415_n.jpg"
+      "./assets/752642917_122139754431070246_1632129087018989415_n.jpg"
     ]
   },
   {
@@ -149,11 +149,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/754970906_122139791871070246_6006667176257446369_n.jpg",
+    "imageUrl": "./assets/754970906_122139791871070246_6006667176257446369_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/754970906_122139791871070246_6006667176257446369_n.jpg"
+      "./assets/754970906_122139791871070246_6006667176257446369_n.jpg"
     ]
   },
   {
@@ -169,11 +169,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/752341464_122139839427070246_1267000780661940674_n.jpg",
+    "imageUrl": "./assets/752341464_122139839427070246_1267000780661940674_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/752341464_122139839427070246_1267000780661940674_n.jpg"
+      "./assets/752341464_122139839427070246_1267000780661940674_n.jpg"
     ]
   },
   {
@@ -189,11 +189,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/756343881_122139913245070246_1829084738666696181_n.jpg",
+    "imageUrl": "./assets/756343881_122139913245070246_1829084738666696181_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/756343881_122139913245070246_1829084738666696181_n.jpg"
+      "./assets/756343881_122139913245070246_1829084738666696181_n.jpg"
     ]
   },
   {
@@ -209,11 +209,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/754872508_122139874209070246_6854730613437448402_n.jpg",
+    "imageUrl": "./assets/754872508_122139874209070246_6854730613437448402_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/754872508_122139874209070246_6854730613437448402_n.jpg"
+      "./assets/754872508_122139874209070246_6854730613437448402_n.jpg"
     ]
   },
   {
@@ -229,11 +229,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/753170046_122139841779070246_7979056271866648903_n.jpg",
+    "imageUrl": "./assets/753170046_122139841779070246_7979056271866648903_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/753170046_122139841779070246_7979056271866648903_n.jpg"
+      "./assets/753170046_122139841779070246_7979056271866648903_n.jpg"
     ]
   },
   {
@@ -249,11 +249,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/757523946_122139942945070246_6121451023247029091_n.jpg",
+    "imageUrl": "./assets/757523946_122139942945070246_6121451023247029091_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/757523946_122139942945070246_6121451023247029091_n.jpg"
+      "./assets/757523946_122139942945070246_6121451023247029091_n.jpg"
     ]
   },
   {
@@ -269,11 +269,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/752881054_122139917463070246_1522162125636913737_n.jpg",
+    "imageUrl": "./assets/752881054_122139917463070246_1522162125636913737_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/752881054_122139917463070246_1522162125636913737_n.jpg"
+      "./assets/752881054_122139917463070246_1522162125636913737_n.jpg"
     ]
   },
   {
@@ -289,11 +289,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/759017195_122140078167070246_8446269911901122649_n.jpg",
+    "imageUrl": "./assets/759017195_122140078167070246_8446269911901122649_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/759017195_122140078167070246_8446269911901122649_n.jpg"
+      "./assets/759017195_122140078167070246_8446269911901122649_n.jpg"
     ]
   },
   {
@@ -309,11 +309,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/757331459_122139981219070246_3584592908939962857_n.jpg",
+    "imageUrl": "./assets/757331459_122139981219070246_3584592908939962857_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/757331459_122139981219070246_3584592908939962857_n.jpg"
+      "./assets/757331459_122139981219070246_3584592908939962857_n.jpg"
     ]
   },
   {
@@ -329,11 +329,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/756526428_122140111221070246_4349517978841904098_n.jpg",
+    "imageUrl": "./assets/756526428_122140111221070246_4349517978841904098_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/756526428_122140111221070246_4349517978841904098_n.jpg"
+      "./assets/756526428_122140111221070246_4349517978841904098_n.jpg"
     ]
   },
   {
@@ -349,11 +349,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/757000123_122140157997070246_7524954257705282312_n.jpg",
+    "imageUrl": "./assets/757000123_122140157997070246_7524954257705282312_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/757000123_122140157997070246_7524954257705282312_n.jpg"
+      "./assets/757000123_122140157997070246_7524954257705282312_n.jpg"
     ]
   },
   {
@@ -369,11 +369,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/756800636_122140158039070246_669511560679969021_n.jpg",
+    "imageUrl": "./assets/756800636_122140158039070246_669511560679969021_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/756800636_122140158039070246_669511560679969021_n.jpg"
+      "./assets/756800636_122140158039070246_669511560679969021_n.jpg"
     ]
   },
   {
@@ -389,11 +389,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/759188671_122140158081070246_8413095959929927061_n.jpg",
+    "imageUrl": "./assets/759188671_122140158081070246_8413095959929927061_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/759188671_122140158081070246_8413095959929927061_n.jpg"
+      "./assets/759188671_122140158081070246_8413095959929927061_n.jpg"
     ]
   },
   {
@@ -409,11 +409,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/758765311_122140158165070246_6174250793429818585_n.jpg",
+    "imageUrl": "./assets/758765311_122140158165070246_6174250793429818585_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/758765311_122140158165070246_6174250793429818585_n.jpg"
+      "./assets/758765311_122140158165070246_6174250793429818585_n.jpg"
     ]
   },
   {
@@ -429,11 +429,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/756343965_122140158123070246_1862088514245902581_n.jpg",
+    "imageUrl": "./assets/756343965_122140158123070246_1862088514245902581_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/756343965_122140158123070246_1862088514245902581_n.jpg"
+      "./assets/756343965_122140158123070246_1862088514245902581_n.jpg"
     ]
   },
   {
@@ -449,11 +449,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/757305380_122140159449070246_1493374795206139892_n.jpg",
+    "imageUrl": "./assets/757305380_122140159449070246_1493374795206139892_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/757305380_122140159449070246_1493374795206139892_n.jpg"
+      "./assets/757305380_122140159449070246_1493374795206139892_n.jpg"
     ]
   },
   {
@@ -469,11 +469,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/757128279_122140159407070246_9025205960879896036_n.jpg",
+    "imageUrl": "./assets/757128279_122140159407070246_9025205960879896036_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/757128279_122140159407070246_9025205960879896036_n.jpg"
+      "./assets/757128279_122140159407070246_9025205960879896036_n.jpg"
     ]
   },
   {
@@ -489,11 +489,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/757398929_122140159533070246_4589150826697943961_n.jpg",
+    "imageUrl": "./assets/757398929_122140159533070246_4589150826697943961_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/757398929_122140159533070246_4589150826697943961_n.jpg"
+      "./assets/757398929_122140159533070246_4589150826697943961_n.jpg"
     ]
   },
   {
@@ -509,11 +509,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/757186306_122140159491070246_6498013112149407911_n.jpg",
+    "imageUrl": "./assets/757186306_122140159491070246_6498013112149407911_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/757186306_122140159491070246_6498013112149407911_n.jpg"
+      "./assets/757186306_122140159491070246_6498013112149407911_n.jpg"
     ]
   },
   {
@@ -529,11 +529,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/758126081_122140159575070246_5781687555635984591_n.jpg",
+    "imageUrl": "./assets/758126081_122140159575070246_5781687555635984591_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/758126081_122140159575070246_5781687555635984591_n.jpg"
+      "./assets/758126081_122140159575070246_5781687555635984591_n.jpg"
     ]
   },
   {
@@ -549,11 +549,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/757533575_122140243215070246_4543143476478123556_n.jpg",
+    "imageUrl": "./assets/757533575_122140243215070246_4543143476478123556_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/757533575_122140243215070246_4543143476478123556_n.jpg"
+      "./assets/757533575_122140243215070246_4543143476478123556_n.jpg"
     ]
   },
   {
@@ -569,11 +569,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/757010723_122140196187070246_1499025831112205311_n.jpg",
+    "imageUrl": "./assets/757010723_122140196187070246_1499025831112205311_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/757010723_122140196187070246_1499025831112205311_n.jpg"
+      "./assets/757010723_122140196187070246_1499025831112205311_n.jpg"
     ]
   },
   {
@@ -589,11 +589,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/758831029_122140284897070246_3023618232047806503_n.jpg",
+    "imageUrl": "./assets/758831029_122140284897070246_3023618232047806503_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/758831029_122140284897070246_3023618232047806503_n.jpg"
+      "./assets/758831029_122140284897070246_3023618232047806503_n.jpg"
     ]
   },
   {
@@ -609,11 +609,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/758690972_122140319733070246_2629558057864508372_n.jpg",
+    "imageUrl": "./assets/758690972_122140319733070246_2629558057864508372_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/758690972_122140319733070246_2629558057864508372_n.jpg"
+      "./assets/758690972_122140319733070246_2629558057864508372_n.jpg"
     ]
   },
   {
@@ -629,11 +629,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/761596607_122140487997070246_9136306626245350587_n.jpg",
+    "imageUrl": "./assets/761596607_122140487997070246_9136306626245350587_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/761596607_122140487997070246_9136306626245350587_n.jpg"
+      "./assets/761596607_122140487997070246_9136306626245350587_n.jpg"
     ]
   },
   {
@@ -649,11 +649,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/761318808_122140573449070246_632113360652497137_n.jpg",
+    "imageUrl": "./assets/761318808_122140573449070246_632113360652497137_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/761318808_122140573449070246_632113360652497137_n.jpg"
+      "./assets/761318808_122140573449070246_632113360652497137_n.jpg"
     ]
   },
   {
@@ -669,11 +669,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/759860703_122140454709070246_3301993433966694010_n.jpg",
+    "imageUrl": "./assets/759860703_122140454709070246_3301993433966694010_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/759860703_122140454709070246_3301993433966694010_n.jpg"
+      "./assets/759860703_122140454709070246_3301993433966694010_n.jpg"
     ]
   },
   {
@@ -689,11 +689,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/767455940_122140851429070246_5496240660417994344_n.jpg",
+    "imageUrl": "./assets/767455940_122140851429070246_5496240660417994344_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/767455940_122140851429070246_5496240660417994344_n.jpg"
+      "./assets/767455940_122140851429070246_5496240660417994344_n.jpg"
     ]
   },
   {
@@ -709,11 +709,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/764752233_122140926879070246_6489069615307357250_n.jpg",
+    "imageUrl": "./assets/764752233_122140926879070246_6489069615307357250_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/764752233_122140926879070246_6489069615307357250_n.jpg"
+      "./assets/764752233_122140926879070246_6489069615307357250_n.jpg"
     ]
   },
   {
@@ -729,11 +729,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/764953709_122140926975070246_3385626179538277513_n.jpg",
+    "imageUrl": "./assets/764953709_122140926975070246_3385626179538277513_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/764953709_122140926975070246_3385626179538277513_n.jpg"
+      "./assets/764953709_122140926975070246_3385626179538277513_n.jpg"
     ]
   },
   {
@@ -749,11 +749,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/764938160_122141028207070246_8935187743493284111_n.jpg",
+    "imageUrl": "./assets/764938160_122141028207070246_8935187743493284111_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/764938160_122141028207070246_8935187743493284111_n.jpg"
+      "./assets/764938160_122141028207070246_8935187743493284111_n.jpg"
     ]
   },
   {
@@ -769,11 +769,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/764800607_122140926933070246_4954893027146056343_n.jpg",
+    "imageUrl": "./assets/764800607_122140926933070246_4954893027146056343_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/764800607_122140926933070246_4954893027146056343_n.jpg"
+      "./assets/764800607_122140926933070246_4954893027146056343_n.jpg"
     ]
   },
   {
@@ -789,11 +789,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/771983662_122141320071070246_267191912495842145_n.jpg",
+    "imageUrl": "./assets/771983662_122141320071070246_267191912495842145_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/771983662_122141320071070246_267191912495842145_n.jpg"
+      "./assets/771983662_122141320071070246_267191912495842145_n.jpg"
     ]
   },
   {
@@ -809,11 +809,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/771589408_122141382045070246_7037711934798801716_n.jpg",
+    "imageUrl": "./assets/771589408_122141382045070246_7037711934798801716_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/771589408_122141382045070246_7037711934798801716_n.jpg"
+      "./assets/771589408_122141382045070246_7037711934798801716_n.jpg"
     ]
   },
   {
@@ -829,11 +829,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/775357781_122141656749070246_3202711882183062868_n.jpg",
+    "imageUrl": "./assets/775357781_122141656749070246_3202711882183062868_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/775357781_122141656749070246_3202711882183062868_n.jpg"
+      "./assets/775357781_122141656749070246_3202711882183062868_n.jpg"
     ]
   },
   {
@@ -849,11 +849,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/782489469_122142509493070246_967319072104469680_n.jpg",
+    "imageUrl": "./assets/782489469_122142509493070246_967319072104469680_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/782489469_122142509493070246_967319072104469680_n.jpg"
+      "./assets/782489469_122142509493070246_967319072104469680_n.jpg"
     ]
   },
   {
@@ -869,11 +869,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/781293024_122142260919070246_9222787361717269269_n.jpg",
+    "imageUrl": "./assets/781293024_122142260919070246_9222787361717269269_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/781293024_122142260919070246_9222787361717269269_n.jpg"
+      "./assets/781293024_122142260919070246_9222787361717269269_n.jpg"
     ]
   },
   {
@@ -889,11 +889,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/774157155_122141826993070246_3760887511983073906_n.jpg",
+    "imageUrl": "./assets/774157155_122141826993070246_3760887511983073906_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/774157155_122141826993070246_3760887511983073906_n.jpg"
+      "./assets/774157155_122141826993070246_3760887511983073906_n.jpg"
     ]
   },
   {
@@ -909,11 +909,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/787306662_122142824847070246_4101887932998721416_n.jpg",
+    "imageUrl": "./assets/787306662_122142824847070246_4101887932998721416_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/787306662_122142824847070246_4101887932998721416_n.jpg"
+      "./assets/787306662_122142824847070246_4101887932998721416_n.jpg"
     ]
   },
   {
@@ -929,11 +929,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/785233926_122142948105070246_1264174450863139920_n.jpg",
+    "imageUrl": "./assets/785233926_122142948105070246_1264174450863139920_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/785233926_122142948105070246_1264174450863139920_n.jpg"
+      "./assets/785233926_122142948105070246_1264174450863139920_n.jpg"
     ]
   },
   {
@@ -949,11 +949,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/789594341_122143048977070246_4521327315183420003_n.jpg",
+    "imageUrl": "./assets/789594341_122143048977070246_4521327315183420003_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/789594341_122143048977070246_4521327315183420003_n.jpg"
+      "./assets/789594341_122143048977070246_4521327315183420003_n.jpg"
     ]
   },
   {
@@ -969,11 +969,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/788000750_122143049241070246_1251403667850714587_n.jpg",
+    "imageUrl": "./assets/788000750_122143049241070246_1251403667850714587_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/788000750_122143049241070246_1251403667850714587_n.jpg"
+      "./assets/788000750_122143049241070246_1251403667850714587_n.jpg"
     ]
   },
   {
@@ -989,11 +989,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/785200644_122142959235070246_3188814452471790632_n.jpg",
+    "imageUrl": "./assets/785200644_122142959235070246_3188814452471790632_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/785200644_122142959235070246_3188814452471790632_n.jpg"
+      "./assets/785200644_122142959235070246_3188814452471790632_n.jpg"
     ]
   },
   {
@@ -1009,11 +1009,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/790225912_122143067073070246_4472233862691506876_n.jpg",
+    "imageUrl": "./assets/790225912_122143067073070246_4472233862691506876_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/790225912_122143067073070246_4472233862691506876_n.jpg"
+      "./assets/790225912_122143067073070246_4472233862691506876_n.jpg"
     ]
   },
   {
@@ -1029,11 +1029,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/750424165_122272387310327751_3045449900528211708_n.jpg",
+    "imageUrl": "./assets/750424165_122272387310327751_3045449900528211708_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/750424165_122272387310327751_3045449900528211708_n.jpg"
+      "./assets/750424165_122272387310327751_3045449900528211708_n.jpg"
     ]
   },
   {
@@ -1049,11 +1049,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/749184166_122272385966327751_8168059198378831452_n.jpg",
+    "imageUrl": "./assets/749184166_122272385966327751_8168059198378831452_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/749184166_122272385966327751_8168059198378831452_n.jpg"
+      "./assets/749184166_122272385966327751_8168059198378831452_n.jpg"
     ]
   },
   {
@@ -1069,11 +1069,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/750016274_122272386968327751_923835086214127790_n.jpg",
+    "imageUrl": "./assets/750016274_122272386968327751_923835086214127790_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/750016274_122272386968327751_923835086214127790_n.jpg"
+      "./assets/750016274_122272386968327751_923835086214127790_n.jpg"
     ]
   },
   {
@@ -1089,11 +1089,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/748419187_122272386926327751_5414161145729477422_n.jpg",
+    "imageUrl": "./assets/748419187_122272386926327751_5414161145729477422_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/748419187_122272386926327751_5414161145729477422_n.jpg"
+      "./assets/748419187_122272386926327751_5414161145729477422_n.jpg"
     ]
   },
   {
@@ -1109,11 +1109,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     "unit": "পিস",
     "brand": "Generic",
     "isActive": true,
-    "imageUrl": "/assets/748534240_122272385948327751_4190460544705925328_n.jpg",
+    "imageUrl": "./assets/748534240_122272385948327751_4190460544705925328_n.jpg",
     "rating": 4.5,
     "reviewCount": 12,
     "galleryImages": [
-      "/assets/748534240_122272385948327751_4190460544705925328_n.jpg"
+      "./assets/748534240_122272385948327751_4190460544705925328_n.jpg"
     ]
   }
 ];

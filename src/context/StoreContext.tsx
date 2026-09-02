@@ -125,15 +125,15 @@ interface StoreContextType {
 const StoreContext = createContext<StoreContextType | undefined>(undefined);
 
 const STORAGE_KEYS = {
-  PRODUCTS: 'db_products_v5',
-  CATEGORIES: 'db_categories_v5',
-  BANNERS: 'db_banners_v5',
-  COUPONS: 'db_coupons_v5',
-  REVIEWS: 'db_reviews_v5',
-  ORDERS: 'db_orders_v5',
-  CART: 'db_cart_v5',
-  WISHLIST: 'db_wishlist_v5',
-  MOVEMENTS: 'db_movements_v5',
+  PRODUCTS: 'db_products_v6',
+  CATEGORIES: 'db_categories_v6',
+  BANNERS: 'db_banners_v6',
+  COUPONS: 'db_coupons_v6',
+  REVIEWS: 'db_reviews_v6',
+  ORDERS: 'db_orders_v6',
+  CART: 'db_cart_v6',
+  WISHLIST: 'db_wishlist_v6',
+  MOVEMENTS: 'db_movements_v6',
 };
 
 export const StoreProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
